@@ -1,0 +1,25 @@
+{
+
+    "Back Squat":1,
+    "Front Squat":0.85,
+    "Clean Deadlift":1,
+    "Snatch Deadlift":0.9,
+    "Powerlifting Deadlift":1.2,
+    "Bench Press":0.75,
+    "Close-Grip Bench Press":0.675,
+    "Push Press":0.6375,
+    "Incline Bench Press":0.6,
+    "Military Press":0.45,
+    "Weighted Dip":0.7875,
+    "Chin-Up":0.675,
+    "Barbell Row":0.525,
+    "Preacher Curl":0.3,
+    "Standing Reverse Curl":0.2625,
+    "Clean & Jerk":0.8,
+    "Snatch":0.66,
+    "Clean":0.816,
+    "Jerk":0.84,
+    "Power Clean":0.68,
+    "Power Jerk":0.72,
+    "Power Snatch":0.54
+}
